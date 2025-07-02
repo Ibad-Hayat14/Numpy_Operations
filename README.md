@@ -1,7 +1,4 @@
-# Numpy_Operations
-A comprehensive notebook covering basic and advanced NumPy operations  Public
-
-# NumPy Operations – Python Notebook 
+# NumPy Operations 
 
 This repository contains a comprehensive Jupyter Notebook titled **`Numpy_Operation.ipynb`** that demonstrates the fundamental and advanced functionalities of the NumPy library,a cornerstone of numerical computing in Python.
 
@@ -14,7 +11,7 @@ The notebook covers:
 - Array indexing and slicing
 - Array reshaping and flattening
 
-### ⚙Mathematical Operations
+### Mathematical Operations
 - Element-wise operations
 - Aggregate functions (`sum`, `mean`, `std`, etc.)
 - Sorting and filtering
